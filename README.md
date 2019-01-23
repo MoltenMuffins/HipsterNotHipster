@@ -1,8 +1,8 @@
 # HipsterNotHipster
-The entirety of the project can be found in the jupyter notebook in this repo. You may use <https://tinyurl.com/hipster100> to quickly refer to the notebook.
+The entirety of the project can be found in the jupyter notebook in this repo. You may use the following link to <https://tinyurl.com/hipster100> to quickly refer to this repo.
 
 ### Problem Statement
-This project attempts to create one class image classifier via transfer learning on top of VGG-Face as a final project submission for the December iteration of the Deep Learning Jump Start Workshop conducted by Red Dragon AI.
+This project attempts to create a one class image classifier (unary classification problem) via transfer learning on top of VGG-Face as a final project submission for the December iteration of the Deep Learning Jump Start Workshop conducted by Red Dragon AI.
 
 Possible issues:
 *   The prevalence of beards in contemporary hipster culture leads to many of the 'hipster' positive examples showing beards. My attempt to mitigate this involves including sufficient examples of non-hipsters with beards (eg. muslim men). 

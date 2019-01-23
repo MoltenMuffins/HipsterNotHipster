@@ -1,5 +1,8 @@
 # HipsterNotHipster
-The entirety of the project can be found in the jupyter notebook in this repo. You may use the following link to <https://tinyurl.com/hipster100> to quickly refer to this repo.
+The entirety of the project can be found in the jupyter notebook in this repo. You may use the following link to <https://tinyurl.com/hipster100> to quickly refer to this repo. 
+
+### Running the Notebook
+The cell outputs should be visible from the jupyter notebook file in the repo. If you would like to run the notebook, the easiest way to run it would be to open it in google colabs by accessing the "HipsterNotHipster.ipynb" file in this repo and clicking the "Google Colabs" link at the top. When viewing the file, you will have to create a copy of the file in order to run it. The dataset and model weights will be downloaded within the notebook via the unix commands in their relevant cells, saving you the trouble of downloading them yourself.
 
 ### Problem Statement
 This project attempts to create one class image classifier via transfer learning on top of VGG-Face as a final project submission for the December iteration of the Deep Learning Jump Start Workshop conducted by Red Dragon AI. The dataset used is self generated using a bulk image downloading tool (fatkun) while the VGG-Face weights for tensorflow are kindly provided by Sefik at https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/. While the choice of topic "Hipster vs Not Hipster" seems rather whimsical, my intention with the project was to try to captilize on the ability of neural networks to generate features independently and see if it can replicate subjective human categorization.

@@ -1,5 +1,5 @@
 # HipsterNotHipster
-The entirety of the project can be found in the jupyter notebook in this repo. You may use the following link to <https://tinyurl.com/hipster100> to quickly refer to this repo. 
+The entirety of the project can be found in the jupyter notebook in this repo. You may use the following link <https://tinyurl.com/hipster100> to quickly refer to this repo. 
 
 ### Running the Notebook
 The cell outputs should be visible from the jupyter notebook file in the repo. If you would like to run the notebook, the easiest way to run it would be to open it in google colabs by accessing the "HipsterNotHipster.ipynb" file in this repo and clicking the "Google Colabs" link at the top. When viewing the file, you will have to create a copy of the file in order to run it. The dataset and model weights will be downloaded within the notebook via the unix commands in their relevant cells, saving you the trouble of downloading them yourself.
